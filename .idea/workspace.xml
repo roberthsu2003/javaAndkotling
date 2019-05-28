@@ -2,60 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1570589-2351-48e1-853a-e2ed42ea2f21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/AddressDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/AddressDialog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/FirstSwing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/FirstSwing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JButtonDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JButtonDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JButtonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JButtonDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JCheckBoxDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JCheckBoxDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JComboBoxDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JComboBoxDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JComboBoxDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JComboBoxDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JDialogDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JDialogDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JDialogDemo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JDialogDemo$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JDialogDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JDialogDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JFrameTest3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JFrameTest3$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JFrameTest3$MyFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JFrameTest3$MyFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JFrameTest3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JFrameTest3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JLabelDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JLabelDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JListDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JListDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JOptionPaneDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JOptionPaneDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JOptionPaneDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JOptionPaneDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JRadioButtonDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JRadioButtonDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JRadioButtonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JRadioButtonDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JTextAreaDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JTextAreaDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JTextFieldDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JTextFieldDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JTextFieldDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JTextFieldDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo4$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo4$RadioClickListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo4$RadioClickListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/KeyListenerDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/KeyListenerDemo1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/KeyListenerDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/KeyListenerDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/MouseClickListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/MouseClickListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/MouseListenerDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/MouseListenerDemo1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/MouseListenerDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/MouseListenerDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/MyActionListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/MyActionListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/BorderLayoutDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/BorderLayoutDemo1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/BorderLayoutDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/BorderLayoutDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/BorderLayoutDemo2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/BorderLayoutDemo2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/BorderLayoutDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/BorderLayoutDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/BoxLayoutDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/BoxLayoutDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/BoxLayoutDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/BoxLayoutDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/FlowLayoutDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/FlowLayoutDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/FlowLayoutDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/FlowLayoutDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/GridLayoutDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/GridLayoutDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/GridLayoutDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/GridLayoutDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/NoLayoutDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/NoLayoutDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/NoLayoutDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/NoLayoutDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFrameDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JFrameDemo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JFrameDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JFrameDemo2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -76,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JFrameDemo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="249">
+              <caret line="45" column="49" lean-forward="true" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -171,6 +117,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,8 +135,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -335,7 +281,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32953367" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.4994965" visible="true" weight="0.19410977" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4994965" weight="0.19410977" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -363,7 +309,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32953367" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4994965" weight="0.19410977" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4994965" visible="true" weight="0.19410977" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -383,27 +329,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JButtonDemoKt.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#115#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JButtonDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="31" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="21" selection-end-column="11" />
-          <folding>
-            <element signature="e#652#653#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JTextFieldDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -851,16 +776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JFrameDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JFrameDemo1.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -871,10 +786,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/JFrameDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-181">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/jre/lib/ext/jfxrt.jar!/com/sun/javafx/tk/quantum/PerformanceTrackerHelper.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/JFrameDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state relative-caret-position="249">
+          <caret line="45" column="49" lean-forward="true" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
