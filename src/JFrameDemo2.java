@@ -1,20 +1,21 @@
 import java.awt.Dimension;
 import java.awt.GridLayout;
 import java.awt.Toolkit;
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JTextField;
-import javax.swing.SwingUtilities;
+import javax.swing.*;
+import javax.swing.border.Border;
 
 public class JFrameDemo2 {
     private static void constructGUI(){
         JFrame.setDefaultLookAndFeelDecorated(true);
         JFrame frame = new JFrame();
+        JPanel contentPanel = new JPanel();
+        Border padding = BorderFactory.createEmptyBorder(10, 10, 10, 10);
+        contentPanel.setBorder(padding);
+        frame.setContentPane(contentPanel);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setTitle("JFrame Test");
         frame.setLayout(new GridLayout(3,2));
-        frame.add(new JLabel("Fiist name:"));
+        frame.add(new JLabel("First name:"));
         frame.add(new JTextField());
         frame.add(new JLabel("Last Name:"));
         frame.add(new JTextField());

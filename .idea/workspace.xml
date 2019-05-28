@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1570589-2351-48e1-853a-e2ed42ea2f21" name="Default Changelist" comment="" />
+    <list default="true" id="f1570589-2351-48e1-853a-e2ed42ea2f21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/AddressDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/AddressDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/FirstSwing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/FirstSwing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JButtonDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JButtonDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JButtonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JButtonDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JCheckBoxDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JCheckBoxDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JComboBoxDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JComboBoxDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JComboBoxDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JComboBoxDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JDialogDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JDialogDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JDialogDemo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JDialogDemo$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JDialogDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JDialogDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JFrameTest3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JFrameTest3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JFrameTest3$MyFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JFrameTest3$MyFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JFrameTest3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JFrameTest3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JLabelDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JLabelDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JListDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JListDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JListDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JOptionPaneDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JOptionPaneDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JOptionPaneDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JOptionPaneDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JRadioButtonDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JRadioButtonDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JRadioButtonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JRadioButtonDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JTextAreaDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JTextAreaDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JTextFieldDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JTextFieldDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JTextFieldDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JTextFieldDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo4$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo4$RadioClickListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo4$RadioClickListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/ActionListenerDemo4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/KeyListenerDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/KeyListenerDemo1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/KeyListenerDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/KeyListenerDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/MouseClickListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/MouseClickListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/MouseListenerDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/MouseListenerDemo1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/MouseListenerDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/MouseListenerDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/event/MyActionListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/event/MyActionListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/BorderLayoutDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/BorderLayoutDemo1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/BorderLayoutDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/BorderLayoutDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/BorderLayoutDemo2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/BorderLayoutDemo2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/BorderLayoutDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/BorderLayoutDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/BoxLayoutDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/BoxLayoutDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/BoxLayoutDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/BoxLayoutDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/FlowLayoutDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/FlowLayoutDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/FlowLayoutDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/FlowLayoutDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/GridLayoutDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/GridLayoutDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/GridLayoutDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/GridLayoutDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/NoLayoutDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/NoLayoutDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/layout/NoLayoutDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/layout/NoLayoutDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JFrameDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JFrameDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JFrameDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JFrameDemo2.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,8 +68,24 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="javaAndkotling" />
+  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JFrameDemo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,12 +95,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JFrameDemo1.java" />
         <option value="$PROJECT_DIR$/src/JFrameDemo1.kt" />
-        <option value="$PROJECT_DIR$/src/JFrameDemo2.java" />
         <option value="$PROJECT_DIR$/src/JFrameDemo2.kt" />
         <option value="$PROJECT_DIR$/src/JFrameTest3.java" />
         <option value="$PROJECT_DIR$/src/JFrameTest3kt.kt" />
@@ -77,6 +150,8 @@
         <option value="$PROJECT_DIR$/src/event/ActionListenerDemo4Kt.kt" />
         <option value="$PROJECT_DIR$/src/event/KeyListenerDemo1.java" />
         <option value="$PROJECT_DIR$/src/event/KeyListenerDemo1Kt.kt" />
+        <option value="$PROJECT_DIR$/src/JFrameDemo1.java" />
+        <option value="$PROJECT_DIR$/src/JFrameDemo2.java" />
       </list>
     </option>
   </component>
@@ -86,38 +161,43 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="2048" />
-    <option name="height" value="1129" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="FirstSwing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstSwing" type="462c0819:PsiDirectoryNode" />
+              <item name="javaAndkotling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaAndkotling" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstSwing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstSwing" type="462c0819:PsiDirectoryNode" />
+              <item name="javaAndkotling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaAndkotling" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -137,29 +217,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.event.KeyListenerDemo1Kt">
-    <configuration name="ActionListenerDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="event.ActionListenerDemo4" />
+  <component name="RunManager" selected="Application.JFrameDemo2">
+    <configuration name="FirstSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstSwing" />
       <module name="FirstSwing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="event.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeyListenerDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="event.KeyListenerDemo1" />
+    <configuration name="JFrameDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JFrameDemo1" />
       <module name="FirstSwing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="event.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JFrameDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JFrameDemo2" />
+      <module name="FirstSwing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
+      <module name="FirstSwing" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -190,26 +278,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="event.MouseListenerDemo1KtKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="FirstSwing" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="event.MouseListenerDemo1KtKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.FirstSwing" />
+      <item itemvalue="Application.JFrameDemo1" />
+      <item itemvalue="Application.JFrameDemo2" />
+      <item itemvalue="Kotlin.Unnamed" />
+      <item itemvalue="Kotlin.event.ActionListenerDemo4Kt" />
+      <item itemvalue="Kotlin.event.KeyListenerDemo1Kt" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JFrameDemo2" />
+        <item itemvalue="Application.JFrameDemo1" />
+        <item itemvalue="Application.FirstSwing" />
         <item itemvalue="Kotlin.event.KeyListenerDemo1Kt" />
-        <item itemvalue="Application.KeyListenerDemo1" />
         <item itemvalue="Kotlin.event.ActionListenerDemo4Kt" />
-        <item itemvalue="Application.ActionListenerDemo4" />
-        <item itemvalue="Kotlin.event.MouseListenerDemo1KtKt" />
       </list>
     </recent_temporary>
   </component>
@@ -226,27 +309,37 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2048" height="1129" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Favorites" order="3" sideWeight="0.5007728" side_tool="true" weight="0.3234811" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20996979" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50050354" side_tool="true" weight="0.32970297" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.32953367" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49885058" weight="0.24383163" />
+      <window_info id="Structure" order="6" sideWeight="0.5011494" side_tool="true" weight="0.3234811" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32921174" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50050354" side_tool="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3266399" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32953367" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4994965" weight="0.20207255" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.4994965" visible="true" weight="0.19410977" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32921174" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -260,21 +353,21 @@
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Favorites" order="3" sideWeight="0.5007728" side_tool="true" weight="0.3234811" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20694864" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50050354" side_tool="true" weight="0.32970297" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.32953367" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49885058" visible="true" weight="0.24383163" />
+      <window_info id="Structure" order="6" sideWeight="0.5011494" side_tool="true" weight="0.3234811" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32921174" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50050354" side_tool="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3266399" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32953367" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4994965" weight="0.17305699" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4994965" weight="0.19410977" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32921174" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -290,29 +383,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/heartIcon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JLabelDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JLabelDemoKt.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JButtonDemoKt.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -354,13 +424,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/WindowConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/WindowConstants.java" />
     <entry file="file://$PROJECT_DIR$/src/JTextAreaDemoKt.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -460,26 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AddressDialog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JDialogDemoKt.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#170#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JDialogDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-61">
@@ -525,16 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JFrameDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -674,13 +708,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/event/ActionListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/event/ActionListener.java" />
     <entry file="file://$PROJECT_DIR$/src/event/ActionListenerDemo1Kt.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -712,13 +740,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/event/MouseAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/event/MouseAdapter.java" />
     <entry file="file://$PROJECT_DIR$/src/event/MouseListenerDemo1Kt.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
@@ -796,12 +818,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FirstSwing.java">
+    <entry file="file://$PROJECT_DIR$/src/AddressDialog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="220">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSwing.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FirstSwing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JDialogDemoKt.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JFrameDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JFrameDemo1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JFrameDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FirstSwing</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
