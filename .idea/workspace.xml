@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1570589-2351-48e1-853a-e2ed42ea2f21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSwing/JFrameDemo2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JFrameDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JFrameDemo2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JFrameDemo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="45" column="49" lean-forward="true" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="49" />
+            <state relative-caret-position="520">
+              <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,26 +119,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="javaAndkotling" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaAndkotling" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaAndkotling" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaAndkotling" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -808,8 +792,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JFrameDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="45" column="49" lean-forward="true" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="49" />
+        <state relative-caret-position="520">
+          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

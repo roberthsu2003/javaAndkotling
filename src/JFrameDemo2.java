@@ -18,6 +18,7 @@ public class JFrameDemo2 {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setTitle("JFrame Test");
         //建立frame的Layout
+
         frame.setLayout(new GridLayout(3,2,0,10));
 
         JLabel firstNameLabel = new JLabel("First Name:");
