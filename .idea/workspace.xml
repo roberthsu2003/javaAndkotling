@@ -1,61 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edf9f443-40f0-4b55-81ec-a4e7a9bb247a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaAndkotling.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaAndkotling.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/AddressDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/AddressDialog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/FirstSwing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/FirstSwing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JButtonDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JButtonDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JButtonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JButtonDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JCheckBoxDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JCheckBoxDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JComboBoxDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JComboBoxDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JComboBoxDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JComboBoxDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JDialogDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JDialogDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JDialogDemo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JDialogDemo$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JDialogDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JDialogDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JFrameDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JFrameDemo1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JFrameDemo1$MyRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JFrameDemo1$MyRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JFrameDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JFrameDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JFrameDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JFrameDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JFrameTest3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JFrameTest3$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JFrameTest3$MyFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JFrameTest3$MyFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JFrameTest3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JFrameTest3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JLabelDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JLabelDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JListDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JListDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JOptionPaneDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JOptionPaneDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JOptionPaneDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JOptionPaneDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JRadioButtonDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JRadioButtonDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JRadioButtonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JRadioButtonDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JTextAreaDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JTextAreaDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JTextFieldDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JTextFieldDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/JTextFieldDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/JTextFieldDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/event/ActionListenerDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/ActionListenerDemo1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/event/ActionListenerDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/ActionListenerDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/event/ActionListenerDemo4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/ActionListenerDemo4$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/event/ActionListenerDemo4$RadioClickListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/ActionListenerDemo4$RadioClickListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/event/ActionListenerDemo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/ActionListenerDemo4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/event/KeyListenerDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/KeyListenerDemo1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/event/KeyListenerDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/KeyListenerDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/event/MouseClickListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/MouseClickListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/event/MouseListenerDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/MouseListenerDemo1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/event/MouseListenerDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/MouseListenerDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/event/MyActionListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/MyActionListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/layout/BorderLayoutDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/layout/BorderLayoutDemo1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/layout/BorderLayoutDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/layout/BorderLayoutDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/layout/BorderLayoutDemo2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/layout/BorderLayoutDemo2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/layout/BorderLayoutDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/layout/BorderLayoutDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/layout/BoxLayoutDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/layout/BoxLayoutDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/layout/BoxLayoutDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/layout/BoxLayoutDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/layout/FlowLayoutDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/layout/FlowLayoutDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/layout/FlowLayoutDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/layout/FlowLayoutDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/layout/GridLayoutDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/layout/GridLayoutDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/layout/GridLayoutDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/layout/GridLayoutDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/layout/NoLayoutDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/layout/NoLayoutDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/layout/NoLayoutDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/layout/NoLayoutDemo.class" afterDir="false" />
-    </list>
+    <list default="true" id="edf9f443-40f0-4b55-81ec-a4e7a9bb247a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,8 +49,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,12 +60,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
@@ -172,9 +118,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2048" height="1129" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2426989" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24746008" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -280,7 +227,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
