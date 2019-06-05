@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f1570589-2351-48e1-853a-e2ed42ea2f21" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JFrameDemo2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/JFrameDemo2.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JFrameDemo2.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-345">
+            <state relative-caret-position="-183">
               <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#93#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -118,6 +114,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,14 +126,12 @@
             <path>
               <item name="javaAndkotling" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaAndkotling" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="白板" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.JFrameDemo2Kt">
+  <component name="RunManager" selected="Kotlin.FrameDemo1.JFrameDemo2Kt">
     <configuration name="FirstSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstSwing" />
       <module name="FirstSwing" />
@@ -182,6 +178,19 @@
     <configuration name="JFrameDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JFrameDemo2" />
       <module name="FirstSwing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrameDemo1.JFrameDemo2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="FirstSwing" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FrameDemo1.JFrameDemo2Kt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -212,34 +221,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="event.KeyListenerDemo1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="FirstSwing" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="event.KeyListenerDemo1Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.FirstSwing" />
       <item itemvalue="Application.JFrameDemo1" />
       <item itemvalue="Application.JFrameDemo2" />
       <item itemvalue="Kotlin.Unnamed" />
-      <item itemvalue="Kotlin.event.KeyListenerDemo1Kt" />
       <item itemvalue="Kotlin.JFrameDemo2Kt" />
+      <item itemvalue="Kotlin.FrameDemo1.JFrameDemo2Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FrameDemo1.JFrameDemo2Kt" />
         <item itemvalue="Kotlin.JFrameDemo2Kt" />
         <item itemvalue="Application.JFrameDemo2" />
         <item itemvalue="Application.JFrameDemo1" />
         <item itemvalue="Application.FirstSwing" />
-        <item itemvalue="Kotlin.event.KeyListenerDemo1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -266,15 +262,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="2048" height="1129" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5007728" side_tool="true" weight="0.3234811" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49885058" weight="0.24383163" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49885058" visible="true" weight="0.24370594" />
       <window_info id="Structure" order="6" sideWeight="0.5011494" side_tool="true" weight="0.3234811" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32921174" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50050354" side_tool="true" weight="0.32931727" />
@@ -787,16 +782,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/jre/lib/ext/jfxrt.jar!/com/sun/javafx/tk/quantum/PerformanceTrackerHelper.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/jre/lib/ext/jfxrt.jar!/com/sun/javafx/tk/quantum/PerformanceTrackerHelper.class" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Runnable.java" />
     <entry file="file://$PROJECT_DIR$/src/JFrameDemo2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
@@ -809,11 +796,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JFrameDemo2.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-345">
+        <state relative-caret-position="-183">
           <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#93#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
