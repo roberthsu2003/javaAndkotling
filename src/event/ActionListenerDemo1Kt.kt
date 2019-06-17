@@ -1,18 +1,9 @@
 package event
 
-import java.awt.Color
-import java.awt.event.ActionEvent
-import java.awt.event.ActionListener
+import java.awt.Dimension
 import javax.swing.*
-import javax.swing.border.EmptyBorder
 
-class MyActionListenerKt:ActionListener{
-    override fun actionPerformed(e: ActionEvent?) {
-        val source = e?.source as JButton
-        val buttonText = source.text
-        JOptionPane.showMessageDialog(null, "you Click $buttonText")
-    }
-}
+
 
 fun main(){
     fun constructGUI(){
@@ -20,14 +11,30 @@ fun main(){
         JDialog.setDefaultLookAndFeelDecorated(true)
         val frame = JFrame("ActionListener Test 1")
         frame.defaultCloseOperation = JFrame.EXIT_ON_CLOSE
+
+        //建立空白邊框的contentPanel
+        val contentPanel = JPanel()
+        val padding = BorderFactory.createEmptyBorder(10, 10, 10, 10)
+        contentPanel.border = padding
+        frame.contentPane = contentPanel
+
+        //建立Button
         val button = JButton("Register")
-        button.addActionListener(MyActionListenerKt())
+
+        //加入Button大小
+        button.preferredSize = Dimension(150, 40)
+
+        //Button加入監聽
+        button.addActionListener{
+            val source = it?.source as JButton
+            val buttonText = source.text
+            JOptionPane.showMessageDialog(null, "you Click $buttonText")
+        }
+
         frame.contentPane.add(button)
         frame.pack()
         frame.isVisible = true
     }
 
-    SwingUtilities.invokeLater(Runnable {
-        constructGUI()
-    })
+    SwingUtilities.invokeLater{constructGUI()}
 }

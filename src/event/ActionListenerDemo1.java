@@ -3,6 +3,17 @@ package event;
 import javax.swing.*;
 import javax.swing.border.Border;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+class MyActionListener implements ActionListener {
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        JButton source = (JButton) e.getSource();
+        String buttonText = source.getText();
+        JOptionPane.showMessageDialog(null, "You Click" + buttonText);
+    }
+}
 
 public class ActionListenerDemo1 {
     private static void constructGUI(){
@@ -22,7 +33,8 @@ public class ActionListenerDemo1 {
 
         //加入Button大小
         button.setPreferredSize(new Dimension(150,40));
-        //加入監聽
+
+        //Button加入監聽
         button.addActionListener(new MyActionListener());
 
         frame.getContentPane().add(button);
