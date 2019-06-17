@@ -1,20 +1,28 @@
-import javax.swing.ImageIcon
-import javax.swing.JButton
-import javax.swing.JFrame
-import javax.swing.SwingUtilities
+import javax.swing.*
+import java.awt.*
 
-fun main(){
-    fun constructGUI(){
-        JFrame.setDefaultLookAndFeelDecorated(true)
-        val frame = JFrame()
-        frame.defaultCloseOperation = JFrame.EXIT_ON_CLOSE
-        frame.title = "JButton Test"
-        val imageIcon = ImageIcon("images/heartIcon.png")
-        val loginButton = JButton("Login", imageIcon)
-        frame.add(loginButton)
+object JButtonDemoKt {
+    private class CustomFrame(title: String, buttonText: String) : JFrame(title) {
+        init {
+            JFrame.setDefaultLookAndFeelDecorated(true)
+            defaultCloseOperation = JFrame.EXIT_ON_CLOSE
+            val imageIcon = ImageIcon("images/heartIcon.png")
+            val imageButton = JButton(buttonText, imageIcon)
+            imageButton.preferredSize = Dimension(200, 200)
+            add(imageButton)
+        }
+    }
+
+     fun constructGUI() {
+        val frame = CustomFrame("JButtonDemo", "Heart")
         frame.pack()
         frame.isVisible = true
     }
 
-    SwingUtilities.invokeLater { constructGUI() }
+
+}
+
+fun main(){
+    SwingUtilities.invokeLater { JButtonDemoKt.constructGUI() }
+
 }

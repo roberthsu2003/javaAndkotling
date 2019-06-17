@@ -37,6 +37,10 @@ public class JFrameTest3 {
     }
 
     public static void main(String[] args){
+<<<<<<< HEAD
         SwingUtilities.invokeLater(()-> constructGUI());
+=======
+        SwingUtilities.invokeLater(()->constructGUI());
+>>>>>>> refs/remotes/origin/master
     }
 }
