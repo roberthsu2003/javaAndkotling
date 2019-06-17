@@ -16,7 +16,7 @@ class ActionListenerDemo4Kt(title:String):JFrame(title){
 
     init {
         this.layout = FlowLayout()
-        this.defaultCloseOperation = JFrame.EXIT_ON_CLOSE
+        this.defaultCloseOperation = EXIT_ON_CLOSE
 
         val button1 = JRadioButton("Red")
         val button2 = JRadioButton("Green")

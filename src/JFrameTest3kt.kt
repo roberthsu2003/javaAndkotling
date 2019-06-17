@@ -10,18 +10,18 @@ fun main(){
         constructor(title:String):super(title)
 
         init{
-            this.defaultCloseOperation = JFrame.EXIT_ON_CLOSE
-            this.title = "JFrame Test"
-            this.layout = GridLayout(3,2)
-            this.add(JLabel("FirstName:"))
-            this.add(JTextField())
-            this.add(JLabel("LastName:"))
-            this.add(JTextField())
-            this.add(JButton("Register"))
+            defaultCloseOperation = EXIT_ON_CLOSE
+            title = "JFrame Test"
+            layout = GridLayout(3,2)
+            add(JLabel("FirstName:"))
+            add(JTextField())
+            add(JLabel("LastName:"))
+            add(JTextField())
+            add(JButton("Register"))
             val frameWidth = 200
             val frameHeight = 100
             val screenSize = Toolkit.getDefaultToolkit().screenSize
-            this.setBounds(screenSize.width - frameWidth, 0, frameWidth, frameHeight)
+            setBounds(screenSize.width - frameWidth, 0, frameWidth, frameHeight)
         }
     }
 

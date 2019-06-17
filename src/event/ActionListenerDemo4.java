@@ -22,7 +22,7 @@ public class ActionListenerDemo4 extends JFrame {
 
     private void init(){
         this.setLayout(new FlowLayout());
-        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 
         JRadioButton button1 = new JRadioButton("Red");
         JRadioButton button2 = new JRadioButton("Green");
@@ -36,25 +36,20 @@ public class ActionListenerDemo4 extends JFrame {
         colorButtonGroup.add(button2);
         colorButtonGroup.add(button3);
         button1.setSelected(true);
-        this.add(new JLabel("Color:"));
-        this.add(button1);
-        this.add(button2);
-        this.add(button3);
+        add(new JLabel("Color:"));
+        add(button1);
+        add(button2);
+        add(button3);
     }
 
     private static void constructGUI(){
-        JFrame.setDefaultLookAndFeelDecorated(true);
+        setDefaultLookAndFeelDecorated(true);
         ActionListenerDemo4 frame = new ActionListenerDemo4("ActionListener Demo 4");
         frame.pack();
         frame.setVisible(true);
     }
 
     public static void main(String[] args){
-        SwingUtilities.invokeLater(new Runnable() {
-            @Override
-            public void run() {
-                constructGUI();
-            }
-        });
+        SwingUtilities.invokeLater(() -> constructGUI());
     }
 }
