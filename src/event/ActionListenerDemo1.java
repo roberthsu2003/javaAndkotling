@@ -20,6 +20,7 @@ public class ActionListenerDemo1 {
         JFrame.setDefaultLookAndFeelDecorated(true);
         JDialog.setDefaultLookAndFeelDecorated(true);
         JFrame frame = new JFrame("ActionListener Test 1");
+
         //建立空白邊框的contentPanel
         JPanel contentPanel = new JPanel();
         Border padding = BorderFactory.createEmptyBorder(10, 10, 10, 10);
