@@ -15,6 +15,8 @@ class MyActionListener implements ActionListener {
     }
 }
 
+
+
 public class ActionListenerDemo1 {
     private static void constructGUI(){
         JFrame.setDefaultLookAndFeelDecorated(true);
@@ -37,6 +39,7 @@ public class ActionListenerDemo1 {
 
         //Button加入監聽
         button.addActionListener(new MyActionListener());
+
 
         frame.getContentPane().add(button);
         frame.pack();
