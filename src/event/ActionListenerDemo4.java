@@ -1,6 +1,7 @@
 package event;
 
 import javax.swing.*;
+import javax.swing.border.Border;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -17,29 +18,37 @@ public class ActionListenerDemo4 extends JFrame {
 
     public ActionListenerDemo4(String title){
         super(title);
-        init();
     }
 
-    private void init(){
+    {
         this.setLayout(new FlowLayout());
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 
-        JRadioButton button1 = new JRadioButton("Red");
-        JRadioButton button2 = new JRadioButton("Green");
-        JRadioButton button3 = new JRadioButton("Blue");
+        //建立空白邊框的contentPanel
+        JPanel contentPanel = new JPanel();
+        Border padding = BorderFactory.createEmptyBorder(10, 10, 10, 10);
+        contentPanel.setBorder(padding);
+        this.setContentPane(contentPanel);
+
+        JRadioButton redButton = new JRadioButton("Red");
+        JRadioButton greenButton = new JRadioButton("Green");
+        JRadioButton blueButton = new JRadioButton("Blue");
+
         RadioClickListener listener = new RadioClickListener();
-        button1.addActionListener(listener);
-        button2.addActionListener(listener);
-        button3.addActionListener(listener);
+        redButton.addActionListener(listener);
+        greenButton.addActionListener(listener);
+        blueButton.addActionListener(listener);
+
         ButtonGroup colorButtonGroup = new ButtonGroup();
-        colorButtonGroup.add(button1);
-        colorButtonGroup.add(button2);
-        colorButtonGroup.add(button3);
-        button1.setSelected(true);
+        colorButtonGroup.add(redButton);
+        colorButtonGroup.add(greenButton);
+        colorButtonGroup.add(redButton);
+
+        redButton.setSelected(true);
         add(new JLabel("Color:"));
-        add(button1);
-        add(button2);
-        add(button3);
+        add(redButton);
+        add(greenButton);
+        add(blueButton);
     }
 
     private static void constructGUI(){
