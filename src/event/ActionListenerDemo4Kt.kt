@@ -15,7 +15,7 @@ class ActionListenerDemo4Kt(title:String):JFrame(title){
      }
 
     init {
-        this.layout = FlowLayout()
+        this.layout = FlowLayout()  
         this.defaultCloseOperation = EXIT_ON_CLOSE
 
         //建立空白邊框的contentPanel
