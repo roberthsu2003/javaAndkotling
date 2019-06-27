@@ -45,11 +45,13 @@ public class BMIFrame extends JFrame {
         this.setContentPane(contentPanel);
 
 
-
+        //建立GridLayout
         GridLayout gridLayout = new GridLayout(5,1);
         gridLayout.setHgap(10);
         gridLayout.setVgap(10);
         this.setLayout(gridLayout);
+
+        //加入TitleLabel
         JLabel titleLabel = new JLabel("BMI試算",SwingConstants.CENTER);
         titleLabel.setFont(new Font(titleLabel.getFont().getName(), titleLabel.getFont().getStyle(), 30));
         this.add(titleLabel);
@@ -60,10 +62,7 @@ public class BMIFrame extends JFrame {
         JRadioButton maleButton = new JRadioButton("男");
         JRadioButton femaleButton = new JRadioButton("女");
 
-        SexClickListener sexClickListener = new SexClickListener();
-        maleButton.addActionListener(sexClickListener);
-        femaleButton.addActionListener(sexClickListener);
-
+        //群組化radioButton
         ButtonGroup sexButtonGroup = new ButtonGroup();
         sexButtonGroup.add(maleButton);
         sexButtonGroup.add(femaleButton);
@@ -72,7 +71,12 @@ public class BMIFrame extends JFrame {
         maleButton.setSelected(true);
         this.add(sexPanel);
 
+        //建立性別事件監聽者
+        SexClickListener sexClickListener = new SexClickListener();
+        maleButton.addActionListener(sexClickListener);
+        femaleButton.addActionListener(sexClickListener);
 
+        //建立heightPanel
         Panel heightPanel = new Panel();
         heightPanel.setLayout(new FlowLayout());
         JLabel heightLabel = new JLabel("身高", SwingConstants.LEADING);
@@ -84,6 +88,7 @@ public class BMIFrame extends JFrame {
         heightPanel.add(cmLabel);
         this.add(heightPanel);
 
+        //建立weightPanel
         Panel weightPanel = new Panel();
         weightPanel.setLayout(new FlowLayout());
         JLabel weightLabel = new JLabel("體重", SwingConstants.LEADING);
@@ -96,7 +101,9 @@ public class BMIFrame extends JFrame {
         weightPanel.add(kgLabel);
         this.add(weightPanel);
 
+        //建立Button
         Button calculateButton = new Button("計算");
+        this.add(calculateButton);
         calculateButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -135,7 +142,7 @@ public class BMIFrame extends JFrame {
 
             }
         });
-        this.add(calculateButton);
+
 
 
     }
