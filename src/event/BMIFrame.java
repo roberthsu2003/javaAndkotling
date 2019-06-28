@@ -36,7 +36,7 @@ public class BMIFrame extends JFrame {
     {
 
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        this.setTitle("BMI試算");
+
 
         //建立空白邊框的contentPanel
         JPanel contentPanel = new JPanel();
@@ -158,6 +158,7 @@ public class BMIFrame extends JFrame {
     }
 
     public static void main(String[] args){
+
         SwingUtilities.invokeLater( () -> constructGUI());
     }
 }
