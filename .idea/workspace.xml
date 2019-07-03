@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d37d7c50-66cb-48ff-a2d0-ee8e262e7851" name="Default Changelist" comment="">
+    <list default="true" id="2088a7b2-3600-4bef-baf8-a084ad1b5b81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/BMIFrameKt$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/BMIFrameKt$SexClickListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/BMIFrameKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/BMIFrameKtKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/BMIFrameKtKt$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/BMIFrameKtKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/event/BMIFrameKt.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/META-INF/javaAndkotling.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/META-INF/javaAndkotling.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaAndkotling/event/BMIFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaAndkotling/event/BMIFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/event/BMIFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/event/BMIFrame.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/白板/" />
@@ -13,19 +23,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/event/BMIFrame.java">
+        <entry file="file://$PROJECT_DIR$/src/event/BMIFrameKt.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="118" column="44" selection-start-line="118" selection-start-column="44" selection-end-line="118" selection-end-column="44" />
+            <state relative-caret-position="-1431">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#810#811#0" expanded="true" />
-                <element signature="e#838#839#0" expanded="true" />
+                <element signature="e#15#124#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,9 +48,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/event/BMI.java" />
-        <option value="$PROJECT_DIR$/src/event/BMIFrame.java" />
+        <option value="$PROJECT_DIR$/src/event/BMIFrameKt.kt" />
       </list>
     </option>
   </component>
@@ -65,6 +72,11 @@
             <path>
               <item name="javaAndkotling" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaAndkotling" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaAndkotling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaAndkotling" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -84,6 +96,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -97,37 +110,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BMIFrame">
-    <configuration name="BMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="event.BMI" />
+  <component name="RunManager">
+    <configuration name="event.BMIFrameKtKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="javaAndkotling" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="event.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BMIFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="event.BMIFrame" />
-      <module name="javaAndkotling" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="event.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="event.BMIFrameKtKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BMIFrame" />
-        <item itemvalue="Application.BMI" />
+        <item itemvalue="Kotlin.event.BMIFrameKtKt" />
       </list>
     </recent_temporary>
   </component>
@@ -136,18 +135,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d37d7c50-66cb-48ff-a2d0-ee8e262e7851" name="Default Changelist" comment="" />
-      <created>1561604208255</created>
+      <changelist id="2088a7b2-3600-4bef-baf8-a084ad1b5b81" name="Default Changelist" comment="" />
+      <created>1561954598849</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561604208255</updated>
+      <updated>1561954598849</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32438317" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24963716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -156,15 +156,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994965" weight="0.17269076" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32931727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3284974" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50050354" side_tool="true" weight="0.1734164" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32917964" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32931727" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -174,26 +174,42 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24963716" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32931727" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32931727" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/event/ActionListenerDemo4.java">
+    <entry file="file://$PROJECT_DIR$/src/event/BMIFrameKt.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="55" column="33" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/event/BMIFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="118" column="44" selection-start-line="118" selection-start-column="44" selection-end-line="118" selection-end-column="44" />
+        <state relative-caret-position="-1431">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
-            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#15#124#0" expanded="true" />
           </folding>
         </state>
       </provider>
